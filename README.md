@@ -14,7 +14,7 @@ AI Website Summary Generator is a Streamlit app that reads the content of any we
 - **Environment Management**: python-dotenv
 
 ## Screenshot
-![Screenshot]<img width="749" alt="Screenshot 2025-05-23 at 2 32 20 pm" src="https://github.com/user-attachments/assets/b2733d17-7157-4642-99d6-119148d8b3f6" />
+<img width="749" alt="Screenshot 2025-05-23 at 2 32 20 pm" src="https://github.com/user-attachments/assets/b2733d17-7157-4642-99d6-119148d8b3f6" />
 
 *A screenshot of the app interface where users can input a URL and receive an AI-generated summary.*
 
